@@ -34,6 +34,6 @@
 -->
 
 ## <img src="git.gif" width="45" /> 𝙶𝚒𝚝𝚑𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 
-![Tousif's GitHub Stats]<div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tousifulhaque&show_icons=true&theme=github_dark" alt="Tousif's GitHub Stats"/>
 </div>
