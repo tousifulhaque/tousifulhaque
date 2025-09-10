@@ -34,4 +34,4 @@
 -->
 
 ## <img src="git.gif" width="45" /> 𝙶𝚒𝚝𝚑𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 
-![Metrics](https://github.com/tousifulhaque/tousifulhaque/blob/main/github-metrics.svg)
+![Tousif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tousifulhaque&show_icons=true&theme=github_dark)
